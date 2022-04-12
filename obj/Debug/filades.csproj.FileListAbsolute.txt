@@ -1,0 +1,7 @@
+C:\Users\iggon\source\repos\filades\filades\obj\Debug\filades.csprojAssemblyReference.cache
+C:\Users\iggon\source\repos\filades\filades\obj\Debug\filades.csproj.CoreCompileInputs.cache
+C:\Users\iggon\source\repos\filades\filades\bin\Debug\filades.exe.config
+C:\Users\iggon\source\repos\filades\filades\bin\Debug\filades.exe
+C:\Users\iggon\source\repos\filades\filades\bin\Debug\filades.pdb
+C:\Users\iggon\source\repos\filades\filades\obj\Debug\filades.exe
+C:\Users\iggon\source\repos\filades\filades\obj\Debug\filades.pdb
